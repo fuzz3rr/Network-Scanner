@@ -1,7 +1,7 @@
 # Network-Scanner
 Simple network scanner with SSH brute-force option.
 
-# 1.Create venv
+## 1.Create venv
 python3 -m venv venv
 
 # 2. Create file PasswordList.txt with passwords
