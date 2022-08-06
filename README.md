@@ -8,7 +8,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # 3.Download paramiko and scapy
-pip3 install paramiko
+pip3 install paramiko \
 pip3 install scapy
 
 # 4.Run the script
